@@ -1,10 +1,9 @@
-
-<h1 align="center">
-  Hi there, I'm Anoushka Hazari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/8wLObF6YF5nYwK1gOb/giphy.gif" width="600"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+%7C+Cloud+Enthusiast+%7C+Data+Storyteller&center=true&width=500&height=30&color=58A6FF&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Ninja+in+a+Spider-Verse;Cloud+Slinger+%7C+AI+Architect;Storyteller+%7C+Code+Slinger&center=true&width=500&height=30&color=F74F4F&pause=1000&size=22" />
 </p>
 
 ---
@@ -21,12 +20,12 @@
 ### 🛠️ Languages & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Peter_B.-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/AWS-Miles-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Azure-Spider_Gwen-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-Miles-orange?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-SpiderMan-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-Venom-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
 </p>
 
 ---
@@ -53,7 +52,7 @@
 
 ### ✨ Quote
 
-> “In God we trust. All others must bring data.” – W. Edwards Deming
+> “Anyone can wear the mask. You could wear the mask. If you didn’t know that before, I hope you do now.” – Spider-Man
 
 ---
 
