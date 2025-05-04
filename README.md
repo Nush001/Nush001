@@ -20,11 +20,11 @@
 ### 🛠️ Languages & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Python-Peter_B.-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/AWS-Miles-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Python-Noush-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/AWS-Noush-orange?style=for-the-badge&logo=amazonaws" />
   <img src="https://img.shields.io/badge/Azure-Spider_Gwen-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-Miles-orange?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-SpiderMan-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-Noush-orange?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-Noush-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Airflow-Venom-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
 </p>
 
