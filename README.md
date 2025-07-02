@@ -1,127 +1,100 @@
-<p align="center">
-  <img src="https://github.com/Nush001/Nush001/blob/main/create-cyberpunk-terminal-images.gif?raw=true" width="800"/>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Anoushka Hazari | Data Terminal</title>
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+  <style>
+    body {
+      background-color: #0d0d0d;
+      color: #00ffe1;
+      font-family: 'Share Tech Mono', monospace;
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+    }
+    .container {
+      max-width: 900px;
+      margin: 50px auto;
+      padding: 20px;
+      border: 1px solid #00ffe1;
+      box-shadow: 0 0 15px #00ffe1;
+      border-radius: 8px;
+      background-color: #111111;
+    }
+    h1, h2, h3 {
+      color: #ff4ff6;
+      text-shadow: 0 0 5px #ff4ff6;
+    }
+    .neon {
+      color: #00ffe1;
+      text-shadow: 0 0 5px #00ffe1, 0 0 10px #00ffe1;
+    }
+    .terminal-block {
+      background: #0f0f0f;
+      border-left: 5px solid #00ffe1;
+      padding: 15px;
+      margin-top: 20px;
+      white-space: pre-wrap;
+    }
+    a {
+      color: #ff4ff6;
+      text-decoration: none;
+    }
+    .link-button {
+      display: inline-block;
+      margin: 10px 10px;
+      padding: 10px 15px;
+      border: 1px solid #00ffe1;
+      border-radius: 5px;
+      text-decoration: none;
+      color: #00ffe1;
+      transition: background 0.3s;
+    }
+    .link-button:hover {
+      background: #00ffe1;
+      color: #0d0d0d;
+    }
+  </style>
+</head>
+<body>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Cyberpunk+Data+Artist+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Cloud+Slinger+%7C+ML+Nerd+%7C+Dashboard+DJ;Turning+Raw+Data+into+Sci-Fi+Insights" alt="Typing SVG" />
-</p>
+  <div class="container">
+    <h1>💻 INITIATING: <span class="neon">ANOUSHKA HAZARI</span> [vX.7]</h1>
 
-<style>
-  .terminal-box {
-    background-color: #0d0d0d;
-    border: 1px solid #00ffe1;
-    border-radius: 10px;
-    padding: 20px;
-    font-family: 'Courier New', Courier, monospace;
-    color: #00ffe1;
-    box-shadow: 0 0 20px #00ffe1;
-    overflow-x: auto;
-  }
-</style>
+    <div class="terminal-block">
+      profile:
+        alias: "Data Synth | Cloud Alchemist | Dashboard Architect"
+        status: "LIVE ⬢ CONNECTED ⬢ ANALYZING..."
+        vibe: "Cybernetic analyst in a neon-lit dashboard dystopia"
+        mission: "Decode entropy using logic, cloud, and visual systems"
+    </div>
 
-<div class="terminal-box">
+    <h2>⚙️ Active Modules</h2>
+    <div class="terminal-block">
+      - IoT_Heart_Rate_Monitor: Arduino | ESP8266 | ThingSpeak  
+      - Soil_Analytics_MIT: Python | REST API | Climate DBs  
+      - Toolbelt: Tableau | Snowflake | Airflow | AWS | Quicksight
+    </div>
 
-<pre><code>
-# === CyberBoot Sequence: Data Analyst Persona vX.7 ===
+    <h2>🧠 Cyber Stack</h2>
+    <div class="terminal-block">
+      - Languages: Python, SQL, R, Bash  
+      - Tools: Scikit-learn, Pandas, NumPy, XGBoost  
+      - Platforms: AWS, Snowflake, Tableau, Airflow  
+      - Style: 🔮 Real-time dashboards + intelligent data pipelines
+    </div>
 
-profile:
-  name: "Anoushka Hazari"
-  alias: "Data Synth | Cloud Alchemist | Dashboard Architect"
-  status: "LIVE ⬢ CONNECTED ⬢ ANALYZING..."
-  vibe: "Cybernetic analyst in a neon-lit dashboard dystopia"
-  mission: "Decode entropy using logic, cloud, and creative visual systems"
+    <h2>📫 Connect</h2>
+    <a class="link-button" href="mailto:anoushkahazari231@gmail.com">✉️ Gmail</a>
+    <a class="link-button" href="https://www.linkedin.com/in/anoushkahazari/">🔗 LinkedIn</a>
+    <a class="link-button" href="https://github.com/Nush001">👾 GitHub</a>
 
-skills:
-  core_languages:
-    - Python 🐍
-    - SQL 🔢
-    - R 📐
-    - Bash 🧨
-  platforms:
-    - AWS (S3, Glue, Lambda) ☁️
-    - Snowflake ❄️
-    - Apache Airflow 🌀
-    - Tableau 📊
-    - Power BI 🖥
-  ai_ml:
-    - Scikit-learn ⚙️
-    - Pandas 🐼
-    - NumPy 🔍
-    - XGBoost 🚀
+    <h2>💬 Final Byte</h2>
+    <div class="terminal-block">
+      “Turning raw data into sci-fi logic — live, adaptive, and beautiful.”
+    </div>
+  </div>
 
-energy:
-  fuel: "87% charged ☕"
-  theme: "neon-terminal darkgrid"
-
-active_projects:
-  - id: 01
-    name: "IoT_Heart_Rate_Monitor"
-    status: "LIVE"
-    description: "Real-time BPM tracking using PPG + Cloud"
-    stack:
-      - Arduino
-      - ESP8266
-      - ThingSpeak
-      - Realtime Dashboards
-  - id: 02
-    name: "Soil_Analytics_MIT"
-    status: "AUTOMATED"
-    description: "REST API climate data integration for smart farming"
-    stack:
-      - Python
-      - RESTful API
-      - Pandas
-  - id: 03
-    name: "Toolbelt_Inventory"
-    stack:
-      - Python
-      - Snowflake
-      - Tableau
-      - AWS
-      - Airflow
-      - Quicksight
-
-quote:
-  cyber_motto: >
-    “Turning raw data into decisions. Real-time. 
-     No smoke. No mirrors. Just dashboards that breathe.”
-
-github_stats:
-  username: "Nush001"
-  display: true
-  theme: "radical"
-
-contact:
-  linkedin: "https://www.linkedin.com/in/anoushkahazari/"
-  email: "anoushkahazari231@gmail.com"
-  signal: "✉️ message received — responding with precision"
-</code></pre>
-</div>
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nush001&theme=radical&show_icons=true&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nush001&layout=compact&theme=radical&hide_border=true" height="180px"/>
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anoushkahazari/">
-    <img src="https://img.shields.io/badge/LinkedIn-Cyber_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:anoushkahazari231@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Anoushka_Direct-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🧠 Fun Fact
-
-> “In a world of big data, insight is your superpower.  
-> And code... is your cape.” 🦸‍♀️
+</body>
+</html>
