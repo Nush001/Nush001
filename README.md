@@ -10,21 +10,70 @@
 
 ## 🌌 Who Am I?
 
-```txt
-Data Analyst | Creative Engineer | AI Engineer 
+Hi, I’m **Anoushka Hazari** — a data storyteller blending code, cloud, and creativity.  
+I specialize in crafting predictive pipelines, immersive dashboards, and scalable analytics tools.
 
-- project: IoT Heart Monitoring
-  stack: [Arduino, ESP8266, ThingSpeak, Realtime Dashboards]
-- project: Soil Analytics @ MIT
-  stack: [REST APIs, Python, Climate Data]
-- toolset:
-  - 🐍 Python (Pandas, NumPy, Scikit-learn)
-  - ☁️ AWS (S3, Glue, Quicksight)
-  - 🎛 Tableau | Power BI
-  - ⛓ Snowflake | Airflow
+🛠 I wield:  
+**Python**, **SQL**, **Tableau**, **Snowflake**, **Airflow**, **AWS**, and a lot of caffeine.
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nush001&theme=radical&show_icons=true&hide_border=true" height="180px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nush001&layout=compact&theme=radical&hide_border=true" height="180px"/> </p>
+💡 I build intelligent systems that **feel like sci-fi** but solve real-world problems.
 
-📫 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/anoushkahazari/"> <img src="https://img.shields.io/badge/LinkedIn-Cyber_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:anoushkahazari231@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Anoushka_Direct-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+---
+
+## 🧬 Current Projects
+
+- **IoT Heart Monitoring**  
+  Real-time health monitoring with PPG + WiFi  
+  `Arduino, ESP8266, ThingSpeak`
+
+- **MIT Soil Analytics**  
+  Automated climate data pipeline for environmental research  
+  `Python, REST API, Pandas`
+
+- **Toolbelt**  
+  🐍 Python, Scikit-learn, NumPy  
+  ☁️ AWS (S3, Glue, Quicksight)  
+  🎛 Tableau, Power BI  
+  ⛓ Airflow, Snowflake
+
+---
+
+## 🔮 Featured Projects
+
+| 🌐 Project Title              | Description                                                  | Tools Used                                      |
+|------------------------------|--------------------------------------------------------------|-------------------------------------------------|
+| ❤️ IoT Heart Monitor         | Real-time heart rate monitor using PPG + WiFi broadcast       | Arduino, ESP8266, ThingSpeak                    |
+| 🛰 MIT Soil Analytics         | Automated REST pipeline for soil sensor data                 | Python, REST API, Pandas                        |
+| 📊 Sneaker Market Forecast   | ML resale trend predictor with dashboards                    | XGBoost, Tableau, Snowflake                     |
+| 🧠 Illness Risk Classifier   | Classifier for chronic disease using CDC BRFSS data          | Scikit-learn, Pandas, Matplotlib                |
+| 🐦 Twitter Sentiment Tracker | Real-time NLP dashboard from Twitter trends                  | Python, S3, Tableau                             |
+| 🎧 Spotify Trend Analyzer    | ETL + popularity dashboards for Spotify data                 | AWS Glue, S3, Quicksight                        |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nush001&theme=radical&show_icons=true&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nush001&layout=compact&theme=radical&hide_border=true" height="180px"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anoushkahazari/">
+    <img src="https://img.shields.io/badge/LinkedIn-Cyber_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:anoushkahazari231@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Anoushka_Direct-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🧠 Fun Fact
+
+> “In a world of big data, insight is your superpower.  
+> And code... is your cape.” 🦸‍♀️
