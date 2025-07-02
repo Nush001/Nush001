@@ -1,51 +1,30 @@
 <p align="center">
-  <img src="https://github.com/YourUsername/YourRepoName/blob/main/create-cyberpunk-terminal-images.gif?raw=true" width="700"/>
+  <img src="https://github.com/Nush001/Nush001/blob/main/create-cyberpunk-terminal-images.gif?raw=true" width="800"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Ninja+in+a+Spider-Verse;Cloud+Slinger+%7C+AI+Architect;Storyteller+%7C+Code+Slinger&center=true&width=500&height=30&color=F74F4F&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Cyberpunk+Data+Artist+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Cloud+Slinger+%7C+ML+Nerd+%7C+Dashboard+DJ;Turning+Raw+Data+into+Sci-Fi+Insights" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## 🌌 Who Am I?
 
-I'm **Anoushka Hazari** — a data analyst with a Master’s in Data Analytics from Northeastern University. I transform raw, complex datasets into intelligent narratives and build interactive tools that power evidence-based decisions across public health, climate science, and space systems.
+```txt
+Data Analyst | Creative Engineer | AI Engineer 
 
-🔍 Currently diving deeper into:
-- Real-time IoT analytics for health monitoring
-- Scalable cloud pipelines with AWS and Snowflake
-- Human-centered dashboards for impact storytelling
+- project: IoT Heart Monitoring
+  stack: [Arduino, ESP8266, ThingSpeak, Realtime Dashboards]
+- project: Soil Analytics @ MIT
+  stack: [REST APIs, Python, Climate Data]
+- toolset:
+  - 🐍 Python (Pandas, NumPy, Scikit-learn)
+  - ☁️ AWS (S3, Glue, Quicksight)
+  - 🎛 Tableau | Power BI
+  - ⛓ Snowflake | Airflow
 
-🛠 Tools of the trade: Python • SQL • Tableau • AWS • Snowflake • Airflow • R • ArcGIS • Figma
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nush001&theme=radical&show_icons=true&hide_border=true" height="180px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nush001&layout=compact&theme=radical&hide_border=true" height="180px"/> </p>
 
----
-
-### 🚀 Featured Projects
-
-| 🌟 Project                   | 📋 Description                                               | 🛠️ Tools Used                                 |
-|-----------------------------|--------------------------------------------------------------|-----------------------------------------------|
-| ❤️ IoT Heart Rate Monitor   | Real-time health monitoring using PPG sensors                | Arduino, ESP8266, ThingSpeak                  |
-| 🛰 MIT Soil Analytics        | Automated pipeline for soil moisture & temp data            | Python, REST API, Pandas                      |
-| 📊 Sneaker Market Study     | Predictive analytics and dynamic dashboards for resale data | Python, XGBoost, Tableau, Snowflake           |
-| 🧠 Chronic Illness Risk ID  | Classification model on CDC BRFSS data                      | Scikit-learn, Pandas, Matplotlib              |
-| 🐦 Twitter Sentiment Pipeline | Real-time sentiment tracking with visualizations           | Python, S3, Tableau                           |
-| 🎧 Spotify Trend Analyzer   | ETL pipeline for song popularity trends                     | AWS Glue, S3, Quicksight                      |
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nush001&theme=tokyonight&show_icons=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nush001&layout=compact&theme=tokyonight" height="180px"/>
-</p>
-
----
-
-### 📫 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anoushkahazari/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:anoushkahazari231@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+📫 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/anoushkahazari/"> <img src="https://img.shields.io/badge/LinkedIn-Cyber_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:anoushkahazari231@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Anoushka_Direct-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
