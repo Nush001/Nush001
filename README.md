@@ -6,9 +6,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Cyberpunk+Data+Artist+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Cloud+Slinger+%7C+ML+Nerd+%7C+Dashboard+DJ;Turning+Raw+Data+into+Sci-Fi+Insights" alt="Typing SVG" />
 </p>
 
----
+<style>
+  .terminal-box {
+    background-color: #0d0d0d;
+    border: 1px solid #00ffe1;
+    border-radius: 10px;
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #00ffe1;
+    box-shadow: 0 0 20px #00ffe1;
+    overflow-x: auto;
+  }
+</style>
 
-## 🌌 Who Am I?
+<div class="terminal-box">
+
+<pre><code>
 # === CyberBoot Sequence: Data Analyst Persona vX.7 ===
 
 profile:
@@ -82,6 +95,8 @@ contact:
   linkedin: "https://www.linkedin.com/in/anoushkahazari/"
   email: "anoushkahazari231@gmail.com"
   signal: "✉️ message received — responding with precision"
+</code></pre>
+</div>
 
 
 ## 📊 GitHub Stats
