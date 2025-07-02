@@ -9,47 +9,80 @@
 ---
 
 ## 🌌 Who Am I?
+# === CyberBoot Sequence: Data Analyst Persona vX.7 ===
 
-Hi, I’m **Anoushka Hazari** — a data storyteller blending code, cloud, and creativity.  
-I specialize in crafting predictive pipelines, immersive dashboards, and scalable analytics tools.
+profile:
+  name: "Anoushka Hazari"
+  alias: "Data Synth | Cloud Alchemist | Dashboard Architect"
+  status: "LIVE ⬢ CONNECTED ⬢ ANALYZING..."
+  vibe: "Cybernetic analyst in a neon-lit dashboard dystopia"
+  mission: "Decode entropy using logic, cloud, and creative visual systems"
 
-🛠 I wield:  
-**Python**, **SQL**, **Tableau**, **Snowflake**, **Airflow**, **AWS**, and a lot of caffeine.
+skills:
+  core_languages:
+    - Python 🐍
+    - SQL 🔢
+    - R 📐
+    - Bash 🧨
+  platforms:
+    - AWS (S3, Glue, Lambda) ☁️
+    - Snowflake ❄️
+    - Apache Airflow 🌀
+    - Tableau 📊
+    - Power BI 🖥
+  ai_ml:
+    - Scikit-learn ⚙️
+    - Pandas 🐼
+    - NumPy 🔍
+    - XGBoost 🚀
 
-💡 I build intelligent systems that **feel like sci-fi** but solve real-world problems.
+energy:
+  fuel: "87% charged ☕"
+  theme: "neon-terminal darkgrid"
 
----
+active_projects:
+  - id: 01
+    name: "IoT_Heart_Rate_Monitor"
+    status: "LIVE"
+    description: "Real-time BPM tracking using PPG + Cloud"
+    stack:
+      - Arduino
+      - ESP8266
+      - ThingSpeak
+      - Realtime Dashboards
+  - id: 02
+    name: "Soil_Analytics_MIT"
+    status: "AUTOMATED"
+    description: "REST API climate data integration for smart farming"
+    stack:
+      - Python
+      - RESTful API
+      - Pandas
+  - id: 03
+    name: "Toolbelt_Inventory"
+    stack:
+      - Python
+      - Snowflake
+      - Tableau
+      - AWS
+      - Airflow
+      - Quicksight
 
-## 🧬 Current Projects
+quote:
+  cyber_motto: >
+    “Turning raw data into decisions. Real-time. 
+     No smoke. No mirrors. Just dashboards that breathe.”
 
-- **IoT Heart Monitoring**  
-  Real-time health monitoring with PPG + WiFi  
-  `Arduino, ESP8266, ThingSpeak`
+github_stats:
+  username: "Nush001"
+  display: true
+  theme: "radical"
 
-- **MIT Soil Analytics**  
-  Automated climate data pipeline for environmental research  
-  `Python, REST API, Pandas`
+contact:
+  linkedin: "https://www.linkedin.com/in/anoushkahazari/"
+  email: "anoushkahazari231@gmail.com"
+  signal: "✉️ message received — responding with precision"
 
-- **Toolbelt**  
-  🐍 Python, Scikit-learn, NumPy  
-  ☁️ AWS (S3, Glue, Quicksight)  
-  🎛 Tableau, Power BI  
-  ⛓ Airflow, Snowflake
-
----
-
-## 🔮 Featured Projects
-
-| 🌐 Project Title              | Description                                                  | Tools Used                                      |
-|------------------------------|--------------------------------------------------------------|-------------------------------------------------|
-| ❤️ IoT Heart Monitor         | Real-time heart rate monitor using PPG + WiFi broadcast       | Arduino, ESP8266, ThingSpeak                    |
-| 🛰 MIT Soil Analytics         | Automated REST pipeline for soil sensor data                 | Python, REST API, Pandas                        |
-| 📊 Sneaker Market Forecast   | ML resale trend predictor with dashboards                    | XGBoost, Tableau, Snowflake                     |
-| 🧠 Illness Risk Classifier   | Classifier for chronic disease using CDC BRFSS data          | Scikit-learn, Pandas, Matplotlib                |
-| 🐦 Twitter Sentiment Tracker | Real-time NLP dashboard from Twitter trends                  | Python, S3, Tableau                             |
-| 🎧 Spotify Trend Analyzer    | ETL + popularity dashboards for Spotify data                 | AWS Glue, S3, Quicksight                        |
-
----
 
 ## 📊 GitHub Stats
 
