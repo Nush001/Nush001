@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o7btU3T5rOX0QWfRm/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tumblr.com%2Fspaceycowboy%2F187270282184&psig=AOvVaw3Ch0fpyNqjko9ChhAJV1HK&ust=1751898650691000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDjtJy5qI4DFQAAAAAdAAAAABAp)" width="250" />
+  <img src="https://github.com/user-attachments/assets/7f504b08-a3fb-4ea1-bcc4-461ebf6dccdb" width="250" />
 </p>
 
 ---
@@ -113,5 +113,4 @@ I build pipelines, optimize dashboards, automate insight delivery — and I’ve
 - Authored detailed reports and visual maps to support **opioid prevention strategies**  
 - Synthesized research evidence for actionable insights influencing real-world community policy
 
-</details>
-
+</details>!
