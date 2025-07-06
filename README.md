@@ -1,6 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFD9&center=true&width=450&lines=Welcome+to+Anoushka's+Neon+Grid...;Where+Data+is+Decoded+in+Style.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFD9&center=true&width=450&lines=Welcome+to+Anoushka's+Github+Portfolio...;Where+Data+is+Decoded+in+Style.">
 </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=FF0066&center=true&vCenter=true&width=500&lines=I'm+not+going+there+to+die.;I'm+going+to+find+out+if+I'm+really+alive.">
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7f504b08-a3fb-4ea1-bcc4-461ebf6dccdb" width="250" />
