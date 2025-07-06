@@ -1,10 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFD9&center=true&width=450&lines=Welcome+to+Anoushka's+Github+Portfolio...;Where+Data+is+Decoded+in+Style.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFD9&center=true&width=450&lines= Welcome+to+Anoushka's+Github+Portfolio....">
 </h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZsb3M1eXd5aW1mNzZ3NjExZ3Vqemk3dnhzYTR6ZncxYzlxMnh1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DyCwqT9KHbM1o/giphy.gif" width="600" alt="I'm not going there to die. I'm going to find out if I'm really alive. - Spike Spiegel" />
+<p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=2000&color=FF0066&center=true&vCenter=true&width=600&lines=The+work%2C+which+becomes+a+new+genre+itself%2C;will+be+called%E2%80%A6+Cowboy+Bebop." />
 </p>
-
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7f504b08-a3fb-4ea1-bcc4-461ebf6dccdb" width="250" />
