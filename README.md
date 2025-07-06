@@ -123,3 +123,23 @@ I build pipelines, optimize dashboards, automate insight delivery — and I’ve
 </details>
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f0ff, #ff0080); margin: 40px 0;" />
 
+## 🔗 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anoushka-hazari">
+    <img src="https://img.shields.io/badge/LinkedIn-Anoushka%20Hazari-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Nush001">
+    <img src="https://img.shields.io/badge/GitHub-Nush001-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:hazarianoushka33@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hazarianoushka33@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0055,100:000000&height=120&section=footer&text=See%20You,%20Space%20Coder...&fontColor=ffffff&fontSize=30" />
+</p>
+
