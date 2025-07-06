@@ -24,6 +24,9 @@ I build pipelines, optimize dashboards, automate insight delivery — and I’ve
 ---
 
 ## 🧠 Tech Stack
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f8b93b8f-cc9f-40e6-8364-8550496f1b8d" width="250" alt="Cyberpunk vibe" />
+</p>
 
 <p align="center">
   
