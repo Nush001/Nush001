@@ -1,41 +1,53 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=See+you+space+coder...;Welcome+to+Anoushka's+Neon+Lab+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFD9&center=true&width=450&lines=Welcome+to+Anoushka's+Neon+Grid...;Where+Data+is+Decoded+in+Style.">
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/R6gvnAxj2ISzJdbA63/giphy.gif" width="250" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Alchemist-Azure%20%7C%20AWS%20%7C%20Python-00ffea?style=for-the-badge&logo=github&logoColor=magenta" />
-  <img src="https://img.shields.io/badge/Open%20to%20Collaborate-Projects%20%7C%20Research%20%7C%20Hackathons-purple?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAzMiAzMic+PHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTI2IDExSDYuM2wtMi45IDRIM0w4IDdIMTYuMUwyMSAxM0gyNnpNMyAxN2gyNi4xTDI2IDIySDZsLTIuOS00SCAzWk0zIDMyVjI0SDI5VjMySDNaJy8+PC9zdmc+" />
+  <img src="https://media.giphy.com/media/3o7btU3T5rOX0QWfRm/giphy.gif" width="250" />
 </p>
 
 ---
 
-## 🧠 Who am I?
+## 🧬 Who is Anoushka Hazari?
 
-```bash
-> user@system:~$ whoami
-Anoushka Hazari
+> 💬 “You’re not just looking at a GitHub. You’re looking into a **terminal of transformation** — where environmental sensors, PR dashboards, and machine learning models all plug into the same system: me.”
 
+I'm Anoushka — a **Data Analyst & Applied Statistician** with a Master’s from Northeastern University and a passion for turning **raw data into real strategy**. My work spans:
+
+- 🌎 *Public health & environmental science*
+- 🚀 *Aerospace analytics*
+- 💬 *AI-powered communication tools*
+- 🔍 *ML and GenAI explorations*
+
+I build pipelines, optimize dashboards, automate insight delivery — and I’ve done it across academic, nonprofit, and tech ecosystems. Right now, I’m riding deep into **Generative AI, Computer Vision, and ML**, because the future is real-time and intelligent.
+
+---
+
+## 🧠 Interactive Tech Stack
+
+```yaml
 Languages:
-  - Python
-  - SQL
-  - R
+  - Python 🐍
+  - SQL 🔍
+  - R 📊
+  - Bash ⚡
+  - HTML/CSS 🌐
 
 Cloud & Infra:
-  - AWS (S3, Glue, QuickSight)
-  - Airflow
-  - Snowflake
-  - Git & GitHub
+  - AWS (S3, Athena, Lambda)
+  - Airflow ⏱️
+  - Snowflake ❄️
+  - PySpark, Hadoop 💽
+  - GitHub Actions 🧬
 
-Analytics & Viz:
-  - Tableau
-  - Power BI
-  - Jupyter Notebook
+Analytics, ML & AI:
+  - Tableau 📊
+  - Power BI 📈
+  - Scikit-learn, XGBoost 🤖
+  - GenAI, LLMs, LangChain 💡
+  - OpenCV, ArcGIS Pro 🧭
 
-Tools:
-  - VSCode
-  - Postman
-  - Linux
+Automation & Tools:
+  - Slack API, Google Sheets API 🔗
+  - Jupyter, VSCode, RStudio
+  - React + Node.js (collab workflows)
