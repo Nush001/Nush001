@@ -23,31 +23,44 @@ I build pipelines, optimize dashboards, automate insight delivery — and I’ve
 
 ---
 
-## 🧠 Interactive Tech Stack
+## 🧠 Tech Stack
 
-```yaml
-Languages:
-  - Python 🐍
-  - SQL 🔍
-  - R 📊
-  - Bash ⚡
-  - HTML/CSS 🌐
+<p align="center">
+  
+  <!-- LANGUAGES -->
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
-Cloud & Infra:
-  - AWS (S3, Athena, Lambda)
-  - Airflow ⏱️
-  - Snowflake ❄️
-  - PySpark, Hadoop 💽
-  - GitHub Actions 🧬
+  <!-- CLOUD + DATA -->
+  <br/>
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FB9D00?style=for-the-badge&logo=aws-lambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-56B9DA?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 
-Analytics, ML & AI:
-  - Tableau 📊
-  - Power BI 📈
-  - Scikit-learn, XGBoost 🤖
-  - GenAI, LLMs, LangChain 💡
-  - OpenCV, ArcGIS Pro 🧭
+  <!-- ANALYTICS & VISUALIZATION -->
+  <br/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/ArcGIS-4479A1?style=for-the-badge&logo=esri&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
-Automation & Tools:
-  - Slack API, Google Sheets API 🔗
-  - Jupyter, VSCode, RStudio
-  - React + Node.js (collab workflows)
+  <!-- MACHINE LEARNING -->
+  <br/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-EC9132?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+
+  <!-- DEV TOOLS -->
+  <br/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+
+</p>
