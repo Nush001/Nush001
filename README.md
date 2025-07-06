@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFD9&center=true&width=450&lines=+Welcome+to+Anoushka's+Github+Portfolio.">
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+Anoushka's+GitHub+Portfolio" />
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7f504b08-a3fb-4ea1-bcc4-461ebf6dccdb" width="250" />
