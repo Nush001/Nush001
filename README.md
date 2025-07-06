@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFD9&center=true&width=450&lines= Welcome+to+Anoushka's+Github+Portfolio....">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFD9&center=true&width=450&lines=Welcome+to+Anoushka's+Github+Portfolio.">
 </h1>
 <p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=2000&color=FF0066&center=true&vCenter=true&width=600&lines=The+work%2C+which+becomes+a+new+genre+itself%2C;will+be+called%E2%80%A6+Cowboy+Bebop." />
