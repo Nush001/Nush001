@@ -71,6 +71,10 @@ I build pipelines, optimize dashboards, automate insight delivery — and I’ve
 ## 💼 Work Experience Timeline
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/20456aa0-5c3f-4f1c-b413-469ea0386766" width="250" alt="Cyberpunk vibe" />
+</p>
+
+<p align="center">
   <a href="#one-community"><img src="https://img.shields.io/badge/2024–2025-One%20Community%20Global-blue?style=for-the-badge&logo=github" /></a>
   <a href="#mit-project"><img src="https://img.shields.io/badge/2024-MIT%20Project-orange?style=for-the-badge&logo=linkedin" /></a>
   <a href="#crime-lab"><img src="https://img.shields.io/badge/2023–2024-Crime%20Lab-green?style=for-the-badge&logo=arcgis" /></a>
@@ -117,3 +121,4 @@ I build pipelines, optimize dashboards, automate insight delivery — and I’ve
 - Synthesized research evidence for actionable insights influencing real-world community policy
 
 </details>!
+
