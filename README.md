@@ -120,10 +120,6 @@ I build pipelines, optimize dashboards, automate insight delivery — and I’ve
 - Authored detailed reports and visual maps to support **opioid prevention strategies**  
 - Synthesized research evidence for actionable insights influencing real-world community policy
 
-</details>!
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nush001&show_icons=true&theme=radical" alt="Anoushka's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nush001&layout=compact&theme=radical" />
-</p>
+</details>
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #00f0ff, #ff0080); margin: 40px 0;" />
 
