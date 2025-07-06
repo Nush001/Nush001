@@ -64,3 +64,54 @@ I build pipelines, optimize dashboards, automate insight delivery — and I’ve
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 
 </p>
+
+## 💼 Work Experience Timeline
+
+<p align="center">
+  <a href="#one-community"><img src="https://img.shields.io/badge/2024–2025-One%20Community%20Global-blue?style=for-the-badge&logo=github" /></a>
+  <a href="#mit-project"><img src="https://img.shields.io/badge/2024-MIT%20Project-orange?style=for-the-badge&logo=linkedin" /></a>
+  <a href="#crime-lab"><img src="https://img.shields.io/badge/2023–2024-Crime%20Lab-green?style=for-the-badge&logo=arcgis" /></a>
+</p>
+
+---
+
+### 🔹 <a name="one-community"></a> 2024–2025 — **Data Analyst** @ [One Community Global](https://onecommunityglobal.org/one-community-welcomes-anoushka-hazari-to-the-administration-team/)
+
+<details>
+<summary>🧠 Click to expand work summary</summary>
+
+- Built a PR Review Team Dashboard in **Figma + Tableau**, improving team decision-making by **30%**
+- Automated Slack notifications & Google Sheets integration using **Python**, reducing manual effort by **50%**
+- Managed cross-functional tasks across **frontend, backend, and DevOps** to deliver real-time analytics
+- Led end-to-end analytics pipeline from data collection to visualization and release
+
+</details>
+
+---
+
+### 🔹 <a name="mit-project"></a> 2024 — **Researcher, Environmental Data Analytics** @ [MIT – Aperture](https://www.linkedin.com/pulse/immediate-release-aperture-launches-high-resolution-daily-2snuc/?trackingId=Ht6iBLK87gcCrKgsgyX6rw%3D%3D)
+
+<details>
+<summary>🛰️ Click to expand work summary</summary>
+
+- Developed a Python-based automation pipeline to pull **hourly soil moisture and temperature** data from Kansas Mesonet via REST API  
+- Engineered logic to handle data across **5cm to 120cm depths** with flexibility for future datasets  
+- Collaborated directly with Aperture founder for scalable API integration and long-term environmental data vision  
+- Helped lay the foundation for real-time state-level environmental monitoring
+
+</details>
+
+---
+
+### 🔹 <a name="crime-lab"></a> 2023–2024 — **Research Assistant** @ [Northeastern University Crime Prevention Lab](https://cssh.northeastern.edu/crj/the-paterson-nj-coalition-for-opioid-assessment-and-response-problem-analysis-and-program-evaluation/)
+
+<details>
+<summary>📍 Click to expand work summary</summary>
+
+- Conducted **geospatial analysis** using ArcGIS Pro to identify overdose hotspots in Paterson, NJ  
+- Used **R and Excel** for public health data mining and statistical analysis  
+- Authored detailed reports and visual maps to support **opioid prevention strategies**  
+- Synthesized research evidence for actionable insights influencing real-world community policy
+
+</details>
+
