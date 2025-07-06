@@ -122,3 +122,8 @@ I build pipelines, optimize dashboards, automate insight delivery — and I’ve
 
 </details>!
 
+<!-- Wakatime stats -->
+<!--
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anoushka" />
+-->
+
