@@ -19,3 +19,23 @@
 > user@system:~$ whoami
 Anoushka Hazari
 
+Languages:
+  - Python
+  - SQL
+  - R
+
+Cloud & Infra:
+  - AWS (S3, Glue, QuickSight)
+  - Airflow
+  - Snowflake
+  - Git & GitHub
+
+Analytics & Viz:
+  - Tableau
+  - Power BI
+  - Jupyter Notebook
+
+Tools:
+  - VSCode
+  - Postman
+  - Linux
