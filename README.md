@@ -121,10 +121,29 @@ I build pipelines, optimize dashboards, automate insight delivery — and I’ve
 - Synthesized research evidence for actionable insights influencing real-world community policy
 
 </details>
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #00f0ff, #ff0080); margin: 40px 0;" />
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #00f0ff, #ff0080); margin: 40px 0;" /> 
 
-## 📄 Resume
-[Download Resume (PDF)](https://github.com/Nush001/Nush001/raw/main/AnoushkaHazari-(2025 Resume.).pdf)
+
+<h2 align="center">⚡🕶️ CYBER FILE ACCESS: [RESUME v2025] 🕶️⚡</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ACCESS-GRANTED-00FFFF?style=for-the-badge&logo=hackerone&logoColor=black" alt="ACCESS GRANTED"/>
+</p>
+
+<p align="center">
+  <a href="./AnoushkaHazari-(2025 Resume.).pdf" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=3000&pause=500&color=00FFCC&center=true&vCenter=true&width=435&lines=▶️+DOWNLOAD+THE+CYBER+RESUME+NOW" alt="Cyber Resume Download"/>
+  </a>
+</p>
+
+<p align="center">
+  <code style="font-family: 'Share Tech Mono', monospace; font-size: 16px; color: #00ffff;">
+    // Resume File: AnoushkaHazari-(2025 Resume.).pdf
+    <br>
+    // Status: 🔓 Decrypted | 📄 Ready for viewing
+  </code>
+</p>
+
 
 ## 🔗 Let’s Connect
 
