@@ -123,6 +123,10 @@ I build pipelines, optimize dashboards, automate insight delivery — and I’ve
 </details>
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f0ff, #ff0080); margin: 40px 0;" />
 
+## 📄 Resume
+
+You can view or download my latest resume [here](./AnoushkaHazari-(2025 Resume.).pdf).
+
 ## 🔗 Let’s Connect
 
 <p align="center">
