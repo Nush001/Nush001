@@ -121,6 +121,15 @@ I build pipelines, optimize dashboards, automate insight delivery — and I’ve
 - Synthesized research evidence for actionable insights influencing real-world community policy
 
 </details>
+## 🧠 LeetCode Stats
+
+[![LeetCode user](https://img.shields.io/badge/LeetCode-hazari__A1-orange?logo=leetcode)](https://leetcode.com/u/hazari_A1/)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/hazari_A1?theme=unicorn&ext=heatmap)](https://leetcode.com/u/hazari_A1/)
+
+🔗 [Visit My LeetCode Profile](https://leetcode.com/u/hazari_A1/)
+
+
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f0ff, #ff0080); margin: 40px 0;" /> 
 
 
