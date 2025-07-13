@@ -121,14 +121,23 @@ I build pipelines, optimize dashboards, automate insight delivery — and I’ve
 - Synthesized research evidence for actionable insights influencing real-world community policy
 
 </details>
-## 🧠 LeetCode Stats
+<h2 align="center">🧠 LeetCode Stats</h2>
 
-[![LeetCode user](https://img.shields.io/badge/LeetCode-hazari__A1-orange?logo=leetcode)](https://leetcode.com/u/hazari_A1/)
+<p align="center">
+  <a href="https://leetcode.com/u/hazari_A1/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-hazari__A1-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Badge"/>
+  </a>
+</p>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/hazari_A1?theme=unicorn&ext=heatmap)](https://leetcode.com/u/hazari_A1/)
+<p align="center">
+  <a href="https://leetcode.com/u/hazari_A1/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/hazari_A1?theme=unicorn&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
 
-🔗 [Visit My LeetCode Profile](https://leetcode.com/u/hazari_A1/)
-
+<p align="center">
+  🔗 <a href="https://leetcode.com/u/hazari_A1/" target="_blank">Visit My LeetCode Profile</a>
+</p>
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #00f0ff, #ff0080); margin: 40px 0;" /> 
 
