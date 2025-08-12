@@ -110,7 +110,7 @@ I build pipelines, optimize dashboards, automate insight delivery — and I’ve
 
 ---
 
-### 🔹 <a name="crime-lab"></a> 2023–2024 — **Research Assistant** @ [Northeastern University Crime Prevention Lab](https://cssh.northeastern.edu/crj/the-paterson-nj-coalition-for-opioid-assessment-and-response-problem-analysis-and-program-evaluation/)
+### 🔹 <a name="crime-lab"></a> 2023–2024 — **Research Assistant** @ [Northeastern University](https://cssh.northeastern.edu/crj/the-paterson-nj-coalition-for-opioid-assessment-and-response-problem-analysis-and-program-evaluation/)
 
 <details>
 <summary>📍 Click to expand work summary</summary>
