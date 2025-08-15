@@ -11,10 +11,12 @@
 ## Who is Anoushka Hazari?
 > 💬 “You’re not just looking at a GitHub — you’re looking at a gateway to immersive data experiences, where AR/VR meets AI, and every line of code shapes perception.”
 
-I’m Anoushka — a Data Scientist with a Master’s in Data Analytics from Northeastern University, originally from Mumbai, India. My work is driven by curiosity about space, motion, and human experience, inspired by Zeno of Elea. I aim to specialize in:
+I’m Anoushka a Data Scientist with a Master’s in Data Analytics from Northeastern University, originally from Mumbai, India. My work is driven by curiosity about space, motion, and human experience, inspired by Zeno of Elea. I aim to specialize in:
 
 🌐 AR/VR analytics & immersive experiences
+
 🤖 AI-powered systems
+
 🔍 Data pipelines, visualization, and ML models
 
 I believe AR/VR and AI together hold the power to redefine reality, and my mission is to craft technologies that transform how we perceive, interact with, and understand the world.
